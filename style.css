@@ -1,0 +1,85 @@
+header{
+    text-align: center;
+    font-family: italic;
+    color: green;
+    padding: 10px;
+    margin-top: 0%;
+   
+}
+#Parques{
+    width: 200px;
+}
+#Mapa{
+    width: 170px;
+}
+#Guayabo{
+    width: 200px;
+    border: 2px;
+}
+#Braulio{
+    width: 200px;
+    border: 2px;
+}
+#Corcovado{
+    width: 200px;
+    border: 2px;
+}
+#Quetzales{
+    width: 200px;
+    border: 2px;
+}
+#Marino{
+    width: 200px;
+    border: 2px;
+}
+a{
+    color: black;
+}
+li{
+    list-style: none;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+#Pguayabo{
+    width: 600px;
+}
+#HG{
+ padding: 0px;
+ margin-right: 260px;   
+}
+th{
+    text-align: left;
+}
+td{
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+     display: flex;
+    background-color: gray;
+    font-size: small;
+    justify-content: space-between;
+    padding: 10px;
+    
+
+}
+#Inicio{
+    justify-content: space-between;
+}
+
+body{
+    background-size: cover;
+}
+#Como{
+    font-size: larger;
+}
+body{
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#VideoG{
+    width: 400px;
+    height: 300px;
+}
